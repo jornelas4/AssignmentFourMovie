@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "MQSoXd0o8NJm+xMfAuPcRdgUtCOlUw1+At8IcSvvODLEET5jzhJ+/k1qX6LaMz9GtOofr7aBKWmC2AbZ6eiVJA==",
+  "success": true,
+  "projectFilePath": "Z:\\ornelajl\\Drive\\WCTC\\NetDataBase\\Class4\\AssignmentFourMovie\\AssignmentFourMovie\\AssignmentFourMovie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Invivo Service\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Invivo Service\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\Invivo Service\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Invivo Service\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\Invivo Service\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Invivo Service\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\Invivo Service\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Invivo Service\\.nuget\\packages\\nlog\\4.7.6\\nlog.4.7.6.nupkg.sha512",
+    "C:\\Users\\Invivo Service\\.nuget\\packages\\nlog.extensions.logging\\1.7.0\\nlog.extensions.logging.1.7.0.nupkg.sha512",
+    "C:\\Users\\Invivo Service\\.nuget\\packages\\nlog.web.aspnetcore\\4.10.0\\nlog.web.aspnetcore.4.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}
